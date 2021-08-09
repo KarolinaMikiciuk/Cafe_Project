@@ -1,0 +1,2 @@
+orders_id,customer_name,customer_address,customer_phone,couriers_id,orders_stage
+1,John,[C352KD.sunflower road.2],1111111111,1,preparing
